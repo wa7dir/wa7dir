@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Waldir Rimey</h1>
+<h1 align="center">Hi 👋, I'm WALDIR </h1>
 <h3 align="center">Student in Systems Engineering 💻🌟.</h3>
 
 <br>
